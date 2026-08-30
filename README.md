@@ -135,3 +135,7 @@ LED + Buzzer   Normal Operation
 **Smart Healthcare System**
 
 Developed as an integrated IoT and embedded-systems project using ESP32, FreeRTOS, MQTT and Adafruit IO.
+
+## 🔗 Wokwi Simulation
+
+[▶️ Open Smart Healthcare System in Wokwi](https://wokwi.com/projects/467786036786179073)
